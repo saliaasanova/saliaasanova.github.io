@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"Job Experience": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Position": "Product Manager",
+			"Company": "Tonti Laguna Mobile",
+			"Country": "Ukraine",
+			"Years": "2021-2023"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Position": "Project Manager",
+			"Company": "Zensoft IO",
+			"Country": "Kyrgyzstan",
+			"Years": "2018-2020"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Position": "Change Management Lead",
+			"Company": "Fujitsu Singapore",
+			"Country": "Singapore",
+			"Years": "2016-2018"
 		}
 	]
 }
